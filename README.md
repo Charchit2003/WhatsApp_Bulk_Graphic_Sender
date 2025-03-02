@@ -66,10 +66,10 @@ The script will send messages one by one. Just keep the internet active.
 ⏳ Performance & Time Estimation
 
 Task	                        Time Taken per User
-Sending a text message	            ~20 sec
-Uploading an image	                ~23 sec
-Uploading a video	                  ~26 sec
-Combined (Message + Image + Video)	~30 sec
+Sending a text message	            ~15 sec
+Uploading an image	                ~19 sec
+Uploading a video	                  ~22 sec
+Combined (Message + Image + Video)	~25 sec
 
 💡 Tip: Sending multiple types of media at once is more efficient than doing it separately!
 ```
